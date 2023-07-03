@@ -19,3 +19,9 @@ chmod +x find.py
 make install
 make test
 ```
+
+For testing out, Docker command line util, we have a script `local.sh`.
+
+```shell
+./local.sh
+```
